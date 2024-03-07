@@ -63,7 +63,7 @@
       36,
       40
     ],
-    "visible_layers": "ffeffcf_ffffffff",
+    "visible_layers": "ffeffef_ffffffff",
     "zone_display_mode": 1
   },
   "git": {
@@ -73,7 +73,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "CH552ETEST.kicad_prl",
+    "filename": "CH552E2x2.kicad_prl",
     "version": 3
   },
   "project": {

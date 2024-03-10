@@ -3831,7 +3831,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "#PWR03")
 					(unit 1)
@@ -3867,7 +3867,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "VyPrints:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.095 85.09 0)
 			(effects
 				(font
@@ -3919,7 +3919,7 @@
 			(uuid "4cec11e3-1b2b-4a35-b2e0-8dd46dbba284")
 		)
 		(instances
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "D5")
 					(unit 1)
@@ -3991,7 +3991,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "#PWR08")
 					(unit 1)
@@ -4089,7 +4089,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "F1")
 					(unit 1)
@@ -4160,7 +4160,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "#PWR02")
 					(unit 1)
@@ -4259,7 +4259,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "C2")
 					(unit 1)
@@ -4337,7 +4337,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "#PWR012")
 					(unit 1)
@@ -4373,7 +4373,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "VyPrints:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 141.605 62.23 0)
 			(effects
 				(font
@@ -4425,7 +4425,7 @@
 			(uuid "f481b1ee-b0a5-4f92-bec7-731328649bd5")
 		)
 		(instances
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "D4")
 					(unit 1)
@@ -4496,7 +4496,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "#PWR04")
 					(unit 1)
@@ -4532,7 +4532,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "VyPrints:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 138.43 85.09 0)
 			(effects
 				(font
@@ -4584,7 +4584,7 @@
 			(uuid "5e9485cb-3741-4656-ade6-313dfd714573")
 		)
 		(instances
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "D6")
 					(unit 1)
@@ -4682,7 +4682,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "R2")
 					(unit 1)
@@ -4747,7 +4747,7 @@
 			(uuid "0de23311-4d2b-409f-8499-09526dd1f683")
 		)
 		(instances
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "#PWR015")
 					(unit 1)
@@ -4838,7 +4838,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "RESET1")
 					(unit 1)
@@ -4948,7 +4948,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "R1")
 					(unit 1)
@@ -5046,7 +5046,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "R4")
 					(unit 1)
@@ -5189,7 +5189,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "J1")
 					(unit 1)
@@ -5256,7 +5256,7 @@
 			(uuid "f8ca3db9-ab01-43eb-9e21-0e21d84e7ff7")
 		)
 		(instances
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "H1")
 					(unit 1)
@@ -5327,7 +5327,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "#PWR013")
 					(unit 1)
@@ -5426,7 +5426,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "C1")
 					(unit 1)
@@ -5459,7 +5459,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 113.665 55.245 0)
 			(effects
 				(font
@@ -5505,7 +5505,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "MX1")
 					(unit 1)
@@ -5544,7 +5544,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 127 55.245 0)
 			(effects
 				(font
@@ -5590,7 +5590,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "MX2")
 					(unit 1)
@@ -5681,7 +5681,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "BOOT1")
 					(unit 1)
@@ -5791,7 +5791,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "U1")
 					(unit 1)
@@ -5824,7 +5824,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 123.825 78.105 0)
 			(effects
 				(font
@@ -5870,7 +5870,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "MX4")
 					(unit 1)
@@ -5909,7 +5909,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 110.49 78.105 0)
 			(effects
 				(font
@@ -5955,7 +5955,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "MX3")
 					(unit 1)
@@ -6059,7 +6059,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "D1")
 					(unit 1)
@@ -6137,7 +6137,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "#PWR011")
 					(unit 1)
@@ -6208,7 +6208,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "#PWR05")
 					(unit 1)
@@ -6299,7 +6299,7 @@
 			(uuid "d9ae85cf-a66d-4de0-afc3-e25135a9fe56")
 		)
 		(instances
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "U2")
 					(unit 1)
@@ -6397,7 +6397,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "#PWR06")
 					(unit 1)
@@ -6433,7 +6433,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "VyPrints:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 128.27 62.23 0)
 			(effects
 				(font
@@ -6485,7 +6485,7 @@
 			(uuid "8aa82c42-107f-45cf-bf54-66bab1a1a2e1")
 		)
 		(instances
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "D3")
 					(unit 1)
@@ -6556,7 +6556,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "#PWR09")
 					(unit 1)
@@ -6634,7 +6634,7 @@
 					(unit 1)
 				)
 			)
-			(project "CH552ETEST"
+			(project "CH552E2x2"
 				(path "/ac567297-42ff-4d14-a5ad-ac820d24b8fa"
 					(reference "#PWR010")
 					(unit 1)
